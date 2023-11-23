@@ -1,14 +1,17 @@
-[
-  {
-    "name": "John Doe",
-    "email": "john@example.com",
-    "whatsappNumber": "081345043479",
-    "birthDay": "2023-11-22"
-  },
-  {
-    "name": "Jane Smith",
-    "email": "jane@example.com",
-    "whatsappNumber": "085219490536",
-    "birthDay": "2023-11-22"
-  }
-]
+  [
+    {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "whatsappNumber": "081345043479",
+      "birthDay": "2023-11-22",
+      "verifiedStatus": true
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "whatsappNumber": "085219490536",
+      "birthDay": "2023-11-23",
+      "verifiedStatus": true
+
+    }
+  ]
